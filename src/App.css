@@ -1,0 +1,6 @@
+.layout {
+  display: grid;
+  grid-template-rows: 0.5fr 1fr;
+  align-items: center;
+  justify-items: center;
+}
